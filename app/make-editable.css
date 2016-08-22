@@ -1,0 +1,30 @@
+section {
+    max-width: 766px;
+    width: 766px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px black;
+    height: 370px;
+    max-height:370px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.make-editable-directive .editable-region {
+    min-height:123px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+}
+
+.make-editable-directive .editable {
+    color: red;
+}
+
+.make-editable-directive button {
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+}
+ 
